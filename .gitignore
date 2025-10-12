@@ -1,0 +1,59 @@
+# WordPress core (ignorar todo lo del root de WP)
+index.php
+license.txt
+readme.html
+wp-activate.php
+wp-blog-header.php
+wp-comments-post.php
+wp-config.php
+wp-cron.php
+wp-links-opml.php
+wp-load.php
+wp-login.php
+wp-mail.php
+wp-settings.php
+wp-signup.php
+wp-trackback.php
+xmlrpc.php
+
+# Archivos raíz sensibles o del servidor
+.htaccess
+php_errorlog
+403.shtml
+
+# WordPress core folders
+wp-admin/
+wp-includes/
+
+# Todo el contenido excepto tu tema
+wp-content/*
+!wp-content/themes/
+wp-content/themes/*/
+!wp-content/themes/exitus/
+
+# Node y dependencias
+/node_modules/
+
+# IDEs
+/.idea/
+/.vscode/
+
+# Logs y archivos temporales
+*.log
+*.tmp
+
+# Archivos sensibles o cache
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
+
+# Dentro de mi tema
+wp-content/themes/exitus/functions.php
+wp-content/themes/exitus/node_modules/
+wp-content/themes/exitus/vendor/
+wp-content/themes/exitus/dist/
+wp-content/themes/exitus/build/
+wp-content/themes/exitus/*.map
+wp-content/themes/exitus/package-lock.json
+wp-content/themes/exitus/composer.lock
+wp-content/themes/exitus/.DS_Store
