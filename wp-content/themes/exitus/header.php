@@ -163,7 +163,7 @@ session_start();
                             <a href="https://www.linkedin.com/in/gabiirese" target="_blank" aria-label="LinkedIn">
                                 <em class="ni ni-linkedin-round"></em>
                             </a>
-                            <a href="https://github.com/eKonboy" target="_blank" aria-label="GitHub">
+                            <a href="https://github.com/FullStackDevelopergabiirese/WP_gabiirese_web_template" target="_blank" aria-label="GitHub">
                                 <em class="ni ni-github-round"></em>
                             </a>
                             <a href="https://facebook.com/tuusuario" target="_blank" aria-label="Facebook">

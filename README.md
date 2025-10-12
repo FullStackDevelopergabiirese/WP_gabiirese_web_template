@@ -25,10 +25,13 @@ git clone https://github.com/FullStackDevelopergabiirese/WP_gabiirese_web_templa
 - Plugins personalizados
 - JSON
 
-## 😄 Uso
+## 😄 Funcionalidades
 
 - Cambio de idiomas en español y catalán
 - Envío de formulario personalizado
+- Responsive
+- Modo oscuro/claro
+- SPA
 
 
 ## ⚡ Uso
