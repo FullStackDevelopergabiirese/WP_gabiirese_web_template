@@ -16,10 +16,10 @@ git clone https://github.com/FullStackDevelopergabiirese/WP_gabiirese_web_templa
 
 ## 🛠️ Tecnologías
 
-- WordPress
+- WordPress 
 - PHP
-- HTML / CSS / JS
-- Tailwind CSS (si lo usas)
+- HTML / CSS / JS / JQ
+- Tailwind CSS
 - Webpack o Vite
 - APIRest
 - Plugins personalizados
@@ -34,6 +34,9 @@ git clone https://github.com/FullStackDevelopergabiirese/WP_gabiirese_web_templa
 ## 📌 Notas
 
 - Esta plantilla está pensada como base para nuevos proyectos de WordPress sin usar plugins.
-- Los plugis o la mayoria de plugins estan creados desde 0 a mano para una obtimización mas eficiente.
-- 
+- Los plugis en su mayoria estan creados desde 0 a mano para una obtimización mas eficiente.
+- Las imagenes son SVG
 - Se recomienda mantener el control de versiones para actualizaciones de temas y plugins.
+
+
+![Captura del tema](https://raw.githubusercontent.com/FullStackDevelopergabiirese/WP_gabiirese_web_template/main/wp-content/themes/exitus/screenshot.png)
