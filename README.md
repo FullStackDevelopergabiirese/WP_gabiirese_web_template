@@ -25,6 +25,12 @@ git clone https://github.com/FullStackDevelopergabiirese/WP_gabiirese_web_templa
 - Plugins personalizados
 - JSON
 
+## 😄 Uso
+
+- Cambio de idiomas en español y catalán
+- Envío de formulario personalizado
+
+
 ## ⚡ Uso
 
 1. Personaliza la plantilla según tu proyecto.
@@ -36,6 +42,7 @@ git clone https://github.com/FullStackDevelopergabiirese/WP_gabiirese_web_templa
 - Esta plantilla está pensada como base para nuevos proyectos de WordPress sin usar plugins.
 - Los plugis en su mayoria estan creados desde 0 a mano para una obtimización mas eficiente.
 - Las imagenes son SVG
+- No se añade el archivo functions.php por contenido sensible
 - Se recomienda mantener el control de versiones para actualizaciones de temas y plugins.
 
 
