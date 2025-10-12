@@ -18,6 +18,7 @@ git clone https://github.com/FullStackDevelopergabiirese/WP_gabiirese_web_templa
 
 - WordPress 
 - PHP
+- ACF PRO
 - HTML / CSS / JS / JQ
 - Tailwind CSS
 - Webpack o Vite
@@ -32,7 +33,7 @@ git clone https://github.com/FullStackDevelopergabiirese/WP_gabiirese_web_templa
 - Responsive
 - Modo oscuro/claro
 - SPA
-
+- Recursos JS de serie
 
 ## ⚡ Uso
 

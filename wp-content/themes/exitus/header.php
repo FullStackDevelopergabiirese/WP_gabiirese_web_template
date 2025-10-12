@@ -166,7 +166,7 @@ session_start();
                             <a href="https://github.com/FullStackDevelopergabiirese/WP_gabiirese_web_template" target="_blank" aria-label="GitHub">
                                 <em class="ni ni-github-round"></em>
                             </a>
-                            <a href="https://facebook.com/tuusuario" target="_blank" aria-label="Facebook">
+                            <a href="#!" target="_blank" aria-label="Facebook">
                                 <em class="ni ni-wordpress"></em>
                             </a>
                         </span>
