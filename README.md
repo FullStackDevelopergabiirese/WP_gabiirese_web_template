@@ -33,7 +33,8 @@ git clone https://github.com/FullStackDevelopergabiirese/WP_gabiirese_web_templa
 - Responsive
 - Modo oscuro/claro
 - SPA
-- Recursos JS de serie
+- Recursos JS/CSS de serie
+- Personalización del Front & Back a los colores corporativos
 
 ## ⚡ Uso
 
